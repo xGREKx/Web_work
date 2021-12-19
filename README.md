@@ -14,12 +14,12 @@
 
 ### Дополнительные задания
 
--При ответе вашего сервера посылайте некоторые основные заголовки:
-  -Date
-  -Content-type
-  -Server
-  -Content-length
-  -Connection: close. ФОрмат ответа из кода, который включает все заголовки указанные в задании. (connection: close было изменено для 7 задания)
+- При ответе вашего сервера посылайте некоторые основные заголовки:
+  - Date
+  - Content-type
+  - Server
+  - Content-length
+  - Connection: close. ФОрмат ответа из кода, который включает все заголовки указанные в задании. (connection: close было изменено для 7 задания)
 image
 
 ![143503516-0ba56cd0-7bc0-4822-9bef-ef13e1bc4d35](https://user-images.githubusercontent.com/55881294/146687544-12efd723-3bf7-49b6-b398-fc6f01ad475e.png)
